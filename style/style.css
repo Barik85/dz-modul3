@@ -1,0 +1,76 @@
+body {
+    font-family: Arial;
+}
+p {
+    font-family: Arial;
+    font-size: 12px;
+    color: #4e5050;
+    line-height: 17px;
+}
+.white-wrapper {
+    width: 406px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 15px 2px rgba(0,0,0,0.16);
+    padding: 4px 37px 52px 37px;
+}
+.horizont-img {
+    display: block;
+    width: 406px;
+    margin: 31px auto; 
+}
+h1, h2 {
+    text-transform: uppercase;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 25px;
+    color: #263555;
+    margin: 54px 0px 32px 0px;
+}
+h4{
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 19px;
+    color: #263555;
+    margin: 17px 0px;
+}
+.left-ul, .right-ul {
+    display: inline-block;
+    font-size: 14px;
+    color: #263555;
+    line-height: 23px;
+    list-style-type: none;
+    list-style-image: url("img/right-arrow.png");
+}
+.testimonial-item {
+    background-image: url("img/testimonial.png")
+}
+
+.footer{
+    background-color: #30455b;
+    width: 406px;
+    margin: 54px -37px -52px -37px;
+    /*margin-left: -37px;
+    margin-right: -37px;
+    margin-bottom: -52px;*/
+    padding: 0px 37px 0px 37px;
+    text-align: center;
+   
+}
+.footer div{
+    display: inline-block;
+    margin: 23px;
+    text-align: left;
+    }
+.footer p{
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 25px;
+}
+.contact-us {
+    text-align: left;
+}
+.footer span {
+    color: white;
+}
